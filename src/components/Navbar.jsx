@@ -37,7 +37,7 @@ export default function Navbar() {
                                 </div> */}
                                 <div className="text">
                                     <i className="fa fa-phone"></i>
-                                    <a href="tel:+91-9065382715"><p>+91-9065382715</p></a>
+                                    <a href="tel:+91-9798266669"><p>+91-9798266669</p></a>
                                 </div>
                                 <div className="text">
                                     <i className="fa fa-envelope"></i>

@@ -36,9 +36,9 @@ export default function BackToTop() {
 
     return (
         // Render the button with a conditional className based on the visible state
-        <a className={`back-to-top ${visible ? 'd-block' : 'd-none'}`} onClick={handleClick}>
+        <span className={`back-to-top ${visible ? 'd-block' : 'd-none'}`} onClick={handleClick}>
             <i className="fa fa-chevron-up">
             </i>
-        </a>
+        </span>
     );
 }

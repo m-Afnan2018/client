@@ -8,15 +8,15 @@ export default function Footer() {
                     <div className="col-lg-3 col-md-6">
                         <div className="footer-contact">
                             <h2>Contact Us</h2>
-                            <a href="https://maps.app.goo.gl/HQg6gMPpAJ445cda6" target="_blank" rel="noopener noreferrer"><p><i className="fa fa-map-marker-alt"></i>Patna, India</p></a>
-                            <a href="tel:+91-9798266669" target="_blank" rel="noopener noreferrer"><p><i className="fa fa-phone"></i>+91-9798266669</p></a>
-                            <a href="mailto:info.nts.pvt@gmail.com" target="_blank" rel="noopener noreferrer"><p><i className="fa fa-envelope"></i>info.nts.pvt@gmail.com</p></a>
+                            <a href="https://maps.app.goo.gl/95eTQrdDCrwxW4iV9" target="_blank" rel="noopener noreferrer"><p><i className="fa fa-map-marker-alt"></i>Samastipur, Bihar</p></a>
+                            <a href="tel:+91-9065382715" target="_blank" rel="noopener noreferrer"><p><i className="fa fa-phone"></i>+91-9065382715</p></a>
+                            <a href="mailto:omtarafoundation21@gmail.com" target="_blank" rel="noopener noreferrer"><p><i className="fa fa-envelope"></i>omtarafoundation21@gmail.com</p></a>
                             <div className="footer-social">
-                                <a className="btn btn-custom"  target="_blank" rel="noopener noreferrer" href="https://twitter.com/vit_socials"><i className="fab fa-x-twitter"></i></a>
-                                <a className="btn btn-custom"  target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/vitsocials"><i className="fab fa-facebook-f"></i></a>
-                                <a className="btn btn-custom"  target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/vitsocials/"><i className="fab fa-instagram"></i></a>
-                                <a className="btn btn-custom"  target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCJnaNm8Ns08rUIhsdFM2fhA"><i className="fab fa-youtube"></i></a>
-                                <a className="btn btn-custom"  target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/vit-social-welfare-development/"><i className="fab fa-linkedin-in"></i></a>
+                                <a className="btn btn-custom"  target="_blank" rel="noopener noreferrer" href="https://twitter.com/"><i className="fab fa-x-twitter"></i></a>
+                                <a className="btn btn-custom"  target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/"><i className="fab fa-facebook-f"></i></a>
+                                <a className="btn btn-custom"  target="_blank" rel="noopener noreferrer" href="https://www.instagram.com//"><i className="fab fa-instagram"></i></a>
+                                <a className="btn btn-custom"  target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/"><i className="fab fa-youtube"></i></a>
+                                <a className="btn btn-custom"  target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com"><i className="fab fa-linkedin-in"></i></a>
                             </div>
                         </div>
                     </div>

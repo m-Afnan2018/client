@@ -46,7 +46,7 @@ export default function Footer() {
                         <p>&copy; <a href="/">The Om Tara Foundation</a> | 2025, All Right Reserved.</p>
                     </div>
                     <div className="col-md-6">
-                        <p>Designed By <a href="https://www.linkedin.com/in/mafnan2018">Mohammad Afnan</a></p>
+                        <p>Designed By <a href="https://namastetech.in">Namaste Tech Solutions (NTS)</a></p>
                     </div>
                 </div>
             </div>

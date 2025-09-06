@@ -9,18 +9,18 @@ export default function Landing() {
                 <span className="left">
                     <div className="caption1">
                         <hr />
-                        <h4>WE ARE SANJIVANI NGO</h4>
+                        <h4>WE ARE OM TARA FOUNDATION</h4>
                     </div>
                     <div className="titles">
                         <div className="caption2">
-                            <p>At <span>Sanjivani,</span> we work towards the betterment of our <span>world</span> </p>
+                            <p>At <span>OM TARA FOUNDATION,</span> we work towards the betterment of our <span>world</span> </p>
                         </div>
                         <div className="caption3">
                             <p>Bring out the change in society by spreading hands to help the unprivileged children and other backward communities.</p>
                         </div>
                         <div className="btns">
                             {/* <button onClick={() => window.open("https://swd.vit.edu/", "_blank", "noopener noreferrer")} type="button" className="btn btn-outline-info">Know More</button> */}
-                            <button type="button" className="btn btn-success" onClick={()=>navigate("/donate")}>DONATE</button>
+                            <button type="button" className="btn btn-success" onClick={()=>navigate("https://rzp.io/rzp/D0CE9EJ5")}>DONATE</button>
                         </div>
                     </div>
 

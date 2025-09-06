@@ -48,11 +48,11 @@ export default function Navbar() {
                         <div className="col-md-4">
                             <div className="top-bar-right">
                                 <div className="social">
-                                    <a href="https://twitter.com/vit_socials" target="_blank" rel="noreferrer"><i className="fab fa-x-twitter"></i></a>
-                                    <a href="https://www.facebook.com/vitsocials" target="_blank" rel="noreferrer"><i className="fab fa-facebook-f"></i></a>
-                                    <a href="https://www.instagram.com/vitsocials/" target="_blank" rel="noreferrer"><i className="fab fa-instagram"></i></a>
-                                    <a href="https://www.youtube.com/channel/UCJnaNm8Ns08rUIhsdFM2fhA" target="_blank" rel="noreferrer"><i className="fab fa-youtube"></i></a>
-                                    <a href="https://www.linkedin.com/company/vit-social-welfare-development/" target="_blank" rel="noreferrer"><i className="fab fa-linkedin-in"></i></a>
+                                    <a href="https://twitter.com/" target="_blank" rel="noreferrer"><i className="fab fa-x-twitter"></i></a>
+                                    <a href="https://www.facebook.com/" target="_blank" rel="noreferrer"><i className="fab fa-facebook-f"></i></a>
+                                    <a href="https://www.instagram.com/" target="_blank" rel="noreferrer"><i className="fab fa-instagram"></i></a>
+                                    <a href="https://www.youtube.com/" target="_blank" rel="noreferrer"><i className="fab fa-youtube"></i></a>
+                                    <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer"><i className="fab fa-linkedin-in"></i></a>
                                 </div>
                             </div>
                         </div>

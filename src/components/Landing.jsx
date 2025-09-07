@@ -20,7 +20,7 @@ export default function Landing() {
                         </div>
                         <div className="btns">
                             {/* <button onClick={() => window.open("https://swd.vit.edu/", "_blank", "noopener noreferrer")} type="button" className="btn btn-outline-info">Know More</button> */}
-                            <button type="button" className="btn btn-success" onClick={()=>navigate("https://rzp.io/rzp/D0CE9EJ5")}>DONATE</button>
+                            <button type="button" className="btn btn-success" onClick={()=>window.open("https://rzp.io/rzp/D0CE9EJ5", "_blank", "noopener noreferrer")}>DONATE</button>
                         </div>
                     </div>
 
